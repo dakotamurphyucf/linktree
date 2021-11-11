@@ -22,5 +22,5 @@ We always welcome contributions; big or small, it can be documentation updates, 
 
 ## 🙏🏽 Thanks to Some People who have contributed
 
-<a><img width="150px" src="https://contrib.rocks/image?repo=devgossips/linktree" /></a>
+<a><img width="150px" src="https://contrib.rocks/image?repo=dakotamurphyucf/linktree" /></a>
 

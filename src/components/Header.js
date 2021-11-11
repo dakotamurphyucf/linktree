@@ -18,10 +18,10 @@ function Header() {
   return (
     <div className="Header container">
       <div className="ten columns Header__inner">
-        <img src={logo} alt="logo" />
+        {/* <img src={logo} alt="logo" /> */}
         &nbsp;&nbsp;&nbsp;
         <h2>
-          <b>Sagnik </b>
+          <b>Dopamineus </b>
         </h2>
       </div>
       <button className="switch-theme-button" onClick={handleSwitchTheme}>
